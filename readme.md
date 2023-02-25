@@ -1,1 +1,1 @@
-Bom esse é meu primeiro commit do projeto então não tenho nem uma atualização design do portifolío ainda esta em andamento
+Bom esse é meu primeiro commit do projeto então não tenho nem uma atualização, design do portifolío ainda esta em andamento
