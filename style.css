@@ -26,12 +26,12 @@ body{
     font-size: 20px;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
-
+    margin: 0 1px;
 }
 
 #Nav_Bar a{
     color: black;
-    margin: 0 5px;
+    margin: 0 6px;
     font-size: 15px;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
@@ -41,4 +41,10 @@ body{
 #Nav_Bar a:hover{
     background: rgb(240, 240, 240);
     border-radius: 5px;
+    font-size: 18px;
+    margin: 0 0;
+}
+
+#Image-Pag{
+    max-width: 80px;
 }
