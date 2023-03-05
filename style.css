@@ -49,3 +49,16 @@ body{
 #Image-Pag{
     max-width: 80px;
 }
+
+#content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px auto;
+}
+
+.text_Content{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
